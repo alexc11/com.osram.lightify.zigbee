@@ -7,7 +7,7 @@
   "name": {
     "en": "Osram Lightify (ZigBee)",
     "nl": "Osram Lightify (ZigBee)",
-    "de": "Osram Lightify (ZigBee"
+    "de": "Osram Lightify (ZigBee)"
   },
   "description": {
     "en": "Control your Osram Lightify bulbs (ZigBee) with Homey!",
@@ -35,7 +35,7 @@
       "name": {
         "en": "Plug (ZigBee)",
         "nl": "Plug (ZigBee)",
-        "de": "Stecker (ZigBee"
+        "de": "Stecker (ZigBee)"
       },
       "class": "socket",
       "capabilities": [
@@ -67,7 +67,7 @@
           "instruction": {
             "en": "Plug in the Plug, or toggle the Plug to start pairing.\n\nIf pairing does not automatically start, try turning the Plug on and off 6 times.",
             "nl": "Stop de Plug in het stopcontact of zet de Plug uit en weer aan om hem toe te voegen.\n\nWordt de Plug niet automatisch toegevoegd, probeer hem dan 6 keer aan en uit te zetten.",
-            "de": "Stecken Sie den Stecker ein oder schalten Sie den Stecker um, um die Kopplung zu starten. Wenn die Kopplung nicht automatisch startet, versuchen Sie 6 Mal, den Stecker ein- und auszuschalten."
+            "de": "Stecken Sie den Stecker ein oder schalten Sie den Stecker um, um die Kopplung zu starten.\n\nWenn die Kopplung nicht automatisch startet, versuchen Sie 6 Mal, den Stecker ein- und auszuschalten."
           }
         }
       }
@@ -500,7 +500,8 @@
       "id": "lightify_white_e14",
       "name": {
         "en": "Tunable White Bulb E14 (ZigBee)",
-        "nl": "Tunable White Lamp E14 (ZigBee)"
+        "nl": "Tunable White Lamp E14 (ZigBee)",
+        "de": "Tunable White Lampe E14 (ZigBee)"
       },
       "class": "light",
       "capabilities": [
